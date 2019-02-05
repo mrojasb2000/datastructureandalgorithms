@@ -12,5 +12,6 @@ func main() {
 	fmt.Println("Value stored at variable var is", *ptr)
 	fmt.Println("The address of variable var is", &data)
 	fmt.Println("The address of variable var is", ptr)
-	fmt.Println("The address of variable var is", *(&data))
+	fmt.Println("The value of variable var is", *(&data))
+	fmt.Println("The address stored at variable var is", &(*ptr))
 }
