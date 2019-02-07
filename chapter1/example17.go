@@ -11,6 +11,7 @@ type student struct {
 
 func main() {
 	stud := student{1, "johnny"}
+	fmt.Println(stud)
 	fmt.Println("Student name ::", stud.name)
 	pstud := &stud
 	fmt.Println("Student name ::", pstud.name)
