@@ -12,5 +12,9 @@ func main() {
 }
 
 func IncrementPassByPointer(ptr *int) {
+	fmt.Println("-----------------------")
+	fmt.Println("Address::", ptr)
+	fmt.Println(" Values::", *ptr)
+	fmt.Println("-----------------------")
 	(*ptr)++
 }
