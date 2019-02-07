@@ -21,4 +21,8 @@ func main() {
 	r := Rect{width: 10, height: 10}
 	fmt.Println("     Area:", r.Area())
 	fmt.Println("Perimeter:", r.Perimeter())
+
+	ptr := &Rect{width: 10, height: 5}
+	fmt.Println("     Area:", ptr.Area())
+	fmt.Println("Perimeter:", ptr.Perimeter())
 }
