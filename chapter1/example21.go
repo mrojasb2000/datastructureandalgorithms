@@ -12,5 +12,5 @@ func main() {
 	}
 	fmt.Println(arr)
 	count := len(arr)
-	fmt.Println("Length fo array:", count)
+	fmt.Println("Length of array:", count)
 }
