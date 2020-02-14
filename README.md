@@ -1,1 +1,1 @@
-# Data Structure & Algorithms in Go
+# Learn Data Structure & Algorithms in Go
