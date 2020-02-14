@@ -19,3 +19,8 @@ Non-linear Data Structures, covers non-linear data structures, such trees, table
 Charpter 5
 
 Homogeneous Data Structures, covers homogeneous data structures such as two-dimensional and multi-dimensional arrays. Array shapes, types, literals, printing, construction, indexing, modification, transformation, and views area presented together with code examples and performance analysis. Matrix representation, multiplication, addition, subtraction, inversion, and transpoce scenarios area shown to demonstrate the usage of multi-dimentional arrays.
+
+Chapter 6
+
+Heterogeneous Data Structures, covers heterogeneous data structures, such as linked lists, ordened, and unordered lists. We present the singly linked list, doubly linked list, and circular linked list, along with code samples and efficiency analysis. Ordered and unordered lists from HTML 3.0 area shown to demonstrate the usage of lists storage management.
+
