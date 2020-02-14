@@ -7,3 +7,7 @@ Data Structures and Algorithms, focuses on the definition of abstract data types
 Chapter 2
 
 Getting Started with Go for Data Structures and Algorithms, covers Go-specific data structures, such as arrays, slices, two-dimencional slices, maps, structs, and channels. Variadic functions, deferred function calls, and panic and recover operations are introduced. Slicing operations, such as enlarging using append and copy, assigning parts, appending a slice, and appending part of a slice, are also presented in this chapter.
+
+Chapter 3
+
+Linear Dtat Structures, covers linear data structures such as list, sets, tuples, stacks, ans heaps. The operations related to these types, including insertion, deletion, updating, reversing, and merging are shown with various code samples. In this chapter, we present the complexity analysis of various data structure operations that disply accessing, search, insertion and deleting times.
