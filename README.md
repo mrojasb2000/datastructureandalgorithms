@@ -27,3 +27,8 @@ Heterogeneous Data Structures, covers heterogeneous data structures, such as lin
 Chapter 7
 
 Dynamic Data Structures, covers dynamic data structures, such as dictionaries, TreeSets, and sequences. Synchronized TreeSets and mutable TreeSets are covered in this chapter along with Go code exhibits. Sequence types including Farey, Fibonacci, look-and-say. and thue-Morse, are discussed with Go programs. This chapter also explains the usage anti-patterns of dictionaries, TreSets, and sequences.
+
+Chapter 8
+
+Classic Algorithms, covers pre-order, post-order, in-order, level-oder tree traversals and linked list traversals.
+Sorting algorithms, such as bubble, selection, insertion, shell, mege, and quick are explained with code exhibits. Search algorithms, as well as linear, sequential, binary, and interpolation methods, are also covered in this chapter. Recursion and hashing are shown by means of code samples.
