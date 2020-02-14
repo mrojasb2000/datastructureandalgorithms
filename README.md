@@ -11,3 +11,7 @@ Getting Started with Go for Data Structures and Algorithms, covers Go-specific d
 Chapter 3
 
 Linear Dtat Structures, covers linear data structures such as list, sets, tuples, stacks, ans heaps. The operations related to these types, including insertion, deletion, updating, reversing, and merging are shown with various code samples. In this chapter, we present the complexity analysis of various data structure operations that disply accessing, search, insertion and deleting times.
+
+Chapter 4
+
+Non-linear Data Structures, covers non-linear data structures, such trees, tables, containers, and hash functions. Tree types, including binary tree, binary search tree, T-tree, treap, symbol table, B-tree, and B+ tree, are explanied with code examples and complexity analisys. Hash function in cryptography for a variety of scenarios, such as open addressing, linear probing, universal hashing, and double hashing.
