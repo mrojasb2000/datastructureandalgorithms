@@ -24,3 +24,6 @@ Chapter 6
 
 Heterogeneous Data Structures, covers heterogeneous data structures, such as linked lists, ordened, and unordered lists. We present the singly linked list, doubly linked list, and circular linked list, along with code samples and efficiency analysis. Ordered and unordered lists from HTML 3.0 area shown to demonstrate the usage of lists storage management.
 
+Chapter 7
+
+Dynamic Data Structures, covers dynamic data structures, such as dictionaries, TreeSets, and sequences. Synchronized TreeSets and mutable TreeSets are covered in this chapter along with Go code exhibits. Sequence types including Farey, Fibonacci, look-and-say. and thue-Morse, are discussed with Go programs. This chapter also explains the usage anti-patterns of dictionaries, TreSets, and sequences.
