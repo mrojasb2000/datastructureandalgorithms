@@ -15,3 +15,7 @@ Linear Dtat Structures, covers linear data structures such as list, sets, tuples
 Chapter 4
 
 Non-linear Data Structures, covers non-linear data structures, such trees, tables, containers, and hash functions. Tree types, including binary tree, binary search tree, T-tree, treap, symbol table, B-tree, and B+ tree, are explanied with code examples and complexity analisys. Hash function in cryptography for a variety of scenarios, such as open addressing, linear probing, universal hashing, and double hashing.
+
+Charpter 5
+
+Homogeneous Data Structures, covers homogeneous data structures such as two-dimensional and multi-dimensional arrays. Array shapes, types, literals, printing, construction, indexing, modification, transformation, and views area presented together with code examples and performance analysis. Matrix representation, multiplication, addition, subtraction, inversion, and transpoce scenarios area shown to demonstrate the usage of multi-dimentional arrays.
