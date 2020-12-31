@@ -1,15 +1,22 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"log"
+)
 
 func main() {
 	var square int
 	var cube int
-	square, cube = powerSeries(3)
+	var err error
+	square, cube, err = powerSeries(3)
 
+	if err != nil {
+		log.Fatal("Error power series")
+	}
 	fmt.Println("Square: ", square, "Cube: ", cube)
 }
 
-func powerSeries(a int) (int, int) {
-	return a * a, a * a * a
+func powerSeries(a int) (int, int, error) {
+	return a * a, a * a * a, nil
 }
